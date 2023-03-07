@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 974cce27789b2ac43aae7897e6187b64
+timeCreated: 1677197993
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kaph
+  fontNames:
+  - Kaph
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e9a130f1bc71df4bbdb790e01376204, type: 3}
+  - {fileID: 12800000, guid: 1c295b4f3c5e2e24da06ef45c5e45577, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
